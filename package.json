@@ -1,0 +1,25 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "A blockchain powered todo-list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartbouman/todo-list.git"
+  },
+  "keywords": [
+    "blockchain",
+    "hardhat",
+    "javascript",
+    "ethereum"
+  ],
+  "author": "Bart Bouman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartbouman/todo-list/issues"
+  },
+  "homepage": "https://github.com/bartbouman/todo-list#readme"
+}
